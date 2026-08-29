@@ -21,7 +21,7 @@ Each stage is accompanied by notes, experiments, problem-solving, and documentat
 Obsidian — learning notes, knowledge organization, and project documentation
 
 ## Canvas Idea:
-![Project Learning Map](assets/project-map.png)
+![Project Learning Map](project-map.png)
 
 ## AI-Assisted Learning
 
