@@ -1,4 +1,4 @@
-Axial-Flux Bearingless Motor
+# Axial-Flux Bearingless Motor
 
 A project-based learning journey focused on designing, building, and improving an axial-flux bearingless motor.
 
@@ -14,5 +14,22 @@ Learn → Apply → Build → Measure → Improve
 
 Each stage is accompanied by notes, experiments, problem-solving, and documentation of what is learned throughout the process.
 
-Tools
+# Tools
+
+## Notebook
+
 Obsidian — learning notes, knowledge organization, and project documentation
+
+## Canvas Idea:
+![Project Learning Map](assets/project-map.png)
+
+## AI-Assisted Learning
+
+ChatGPT and other AI tools are used throughout the project solely for learning and research support, including:
+
+Finding and discovering relevant learning resources and technical references
+Clarifying concepts and explanations
+Asking questions and exploring different approaches
+Supporting the learning and documentation process
+
+AI is not used to complete the project work on my behalf. All implementations, experiments, designs, calculations, and decisions are carried out and understood by me.
